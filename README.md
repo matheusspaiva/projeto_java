@@ -11,5 +11,5 @@
 
 ### Meus contatos:
 
-- [Matheus Silva Paiva] (https://www.linkedin.com/in/matheus-silva-paiva-4b5ba9204) - Meu perfil no LinkdedIn
-- [E-mail] : matheusp.silva0302@gmail.com
+- Meu perfil no LinkdedIn : https://www.linkedin.com/in/matheus-silva-paiva-4b5ba9204 
+- E-mail : matheusp.silva0302@gmail.com
